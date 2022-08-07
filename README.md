@@ -7,8 +7,8 @@ Assignment 1: Traffic light control
 - Grade: 100 %
 
 Assignment 2: Concurrency & POSIX Threads
-Part 1: Number Scrabble Game
-Part 2: Auction
+, Part 1: Number Scrabble Game
+, Part 2: Auction
 - Grade: 91 %
   
 Assignment 3: SNES Controller Device Driver
